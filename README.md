@@ -1,10 +1,17 @@
 # Jamf Role Automator
+<img width="512" height="512" alt="RANew-iOS-Default-512x512@1x" src="https://github.com/user-attachments/assets/b70d148d-f315-49cc-abd5-581c32375c25" />
+
 
 [![macOS](https://img.shields.io/badge/macOS-26.0%2B-blue.svg)](https://github.com/joshikavan92/jamf-role-automator)
 [![Downloads](https://img.shields.io/github/downloads/joshikavan92/jamf-role-automator/total.svg)](https://github.com/joshikavan92/jamf-role-automator/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
 **Jamf Role Automator** is a macOS app that analyzes your Jamf automation scripts and tells you exactly which **Jamf Pro API roles and privileges** they need. It also lets you browse the full role database and create roles directly on your Jamf Pro server.
+
+![Screenshot 2026-02-24 at 5 38 09 PM](https://github.com/user-attachments/assets/dd4163b5-2c57-4877-8029-83d67dcf0de6)
+![Screenshot 2026-02-24 at 5 39 30 PM](https://github.com/user-attachments/assets/a538bdac-5e15-48bf-9703-ca95c706e540)
+![Screenshot 2026-02-24 at 5 38 41 PM](https://github.com/user-attachments/assets/aecdff5d-e52f-449e-9a14-884c009c8e69)
+![Screenshot 2026-02-24 at 5 38 56 PM](https://github.com/user-attachments/assets/bec3eaa7-c973-4c8d-83dd-9e29fab68ac8)
 
 ---
 
