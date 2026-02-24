@@ -1,5 +1,6 @@
 # Jamf Role Automator
-<img width="512" height="512" alt="RANew-iOS-Default-512x512@1x" src="https://github.com/user-attachments/assets/b70d148d-f315-49cc-abd5-581c32375c25" />
+<img width="256" height="256" alt="RANew-iOS-Default-128x128@2x" src="https://github.com/user-attachments/assets/28ca8ec8-21a9-450e-9f70-a88fc6c06f33" />
+
 
 
 [![macOS](https://img.shields.io/badge/macOS-26.0%2B-blue.svg)](https://github.com/joshikavan92/jamf-role-automator)
@@ -8,10 +9,11 @@
 
 **Jamf Role Automator** is a macOS app that analyzes your Jamf automation scripts and tells you exactly which **Jamf Pro API roles and privileges** they need. It also lets you browse the full role database and create roles directly on your Jamf Pro server.
 
-![Screenshot 2026-02-24 at 5 38 09 PM](https://github.com/user-attachments/assets/dd4163b5-2c57-4877-8029-83d67dcf0de6)
-![Screenshot 2026-02-24 at 5 39 30 PM](https://github.com/user-attachments/assets/a538bdac-5e15-48bf-9703-ca95c706e540)
-![Screenshot 2026-02-24 at 5 38 41 PM](https://github.com/user-attachments/assets/aecdff5d-e52f-449e-9a14-884c009c8e69)
-![Screenshot 2026-02-24 at 5 38 56 PM](https://github.com/user-attachments/assets/bec3eaa7-c973-4c8d-83dd-9e29fab68ac8)
+![Screenshot 2026-02-24 at 5 42 58 PM](https://github.com/user-attachments/assets/9b15e87c-7311-429c-b229-9f9c3bb0ecda)
+![Screenshot 2026-02-24 at 5 38 41 PM](https://github.com/user-attachments/assets/8312b43f-0125-4574-8760-17bc957be46f)
+![Screenshot 2026-02-24 at 5 39 30 PM](https://github.com/user-attachments/assets/d94eb3bb-f9f9-4ae2-a4af-2e705724f28d)
+![Screenshot 2026-02-24 at 5 38 56 PM](https://github.com/user-attachments/assets/334281c1-421a-45b7-8d29-d237df3db839)
+
 
 ---
 
@@ -34,8 +36,8 @@
   - Reminds you to check Jamf Developer documentation to confirm that the privileges you’re using are still valid.
 
 - **Templates**
-  - Built‑in templates for common UEM / security setups.
-  - Select multiple templates and push a combined role to Jamf Pro.
+  - Built‑in templates for Jamf Pro to Jamf Security Cloud UEM Sync.
+  - Select multiple templates and push a combined role to Jamf Pro. 
 
 - **Offline‑friendly**
   - Caches the role database locally for offline use.
@@ -54,7 +56,7 @@
 ## Installation
 
 1. Go to the [**Releases**](https://github.com/joshikavan92/jamf-role-automator/releases) page.
-2. Download the latest `RoleAutomator-*.pkg`.
+2. Download the latest `RoleAutomator-*.dmg`.
 3. Open the package and follow the installer prompts.
 4. Launch **RoleAutomator** from `/Applications`.
 
