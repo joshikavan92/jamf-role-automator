@@ -52,7 +52,7 @@
 
 1. Go to the [**Releases**](https://github.com/joshikavan92/jamf-role-automator/releases) page.
 2. Download the latest `RoleAutomator-*.dmg`.
-3. Open the package and follow the installer prompts.
+3. Open the package and move the .app file to /Applications.
 4. Launch **RoleAutomator** from `/Applications`.
 
 ---
